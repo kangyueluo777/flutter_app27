@@ -32,7 +32,7 @@ class _MyCustomFormState extends State<MyCustomForm>{
     // TODO: implement build
     return Scaffold(
       appBar: AppBar(
-        title: Text('Retroeve Text Input'),
+        title: Text('Retrieve Text Input'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
